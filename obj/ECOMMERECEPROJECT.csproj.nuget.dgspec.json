@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JACKLON\\Desktop\\Project\\ECOMMERECEPROJECT\\ECOMMERECEPROJECT.csproj": {}
+    "C:\\Users\\raja\\Desktop\\PROJECTWORK\\PROJECTWORK\\ECOMMERECEPROJECT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JACKLON\\Desktop\\Project\\ECOMMERECEPROJECT\\ECOMMERECEPROJECT.csproj": {
+    "C:\\Users\\raja\\Desktop\\PROJECTWORK\\PROJECTWORK\\ECOMMERECEPROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JACKLON\\Desktop\\Project\\ECOMMERECEPROJECT\\ECOMMERECEPROJECT.csproj",
+        "projectUniqueName": "C:\\Users\\raja\\Desktop\\PROJECTWORK\\PROJECTWORK\\ECOMMERECEPROJECT.csproj",
         "projectName": "ECOMMERECEPROJECT",
-        "projectPath": "C:\\Users\\JACKLON\\Desktop\\Project\\ECOMMERECEPROJECT\\ECOMMERECEPROJECT.csproj",
-        "packagesPath": "C:\\Users\\JACKLON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JACKLON\\Desktop\\Project\\ECOMMERECEPROJECT\\obj\\",
+        "projectPath": "C:\\Users\\raja\\Desktop\\PROJECTWORK\\PROJECTWORK\\ECOMMERECEPROJECT.csproj",
+        "packagesPath": "C:\\Users\\raja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raja\\Desktop\\PROJECTWORK\\PROJECTWORK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JACKLON\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\raja\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
